@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -24,7 +24,7 @@ int main(void)
     printf("%d\n", r);
     return (0);
 }
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
